@@ -1,0 +1,19 @@
+// Autor: José Luis Ojeda
+#include <iostream>
+using namespace std;
+
+int main()
+{
+	int numero;
+	
+	cout << "Ingrese un numero : "; cin >> numero;
+	
+	if(numero%2 == 0){
+		cout << "El número es par";
+	}
+	else{
+		cout << "El numero es impar ";
+	}
+
+	return 0;
+}
