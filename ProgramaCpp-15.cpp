@@ -12,10 +12,10 @@ int main()
 		cout << "Ambos numeros son iguales";
 	}
 	else if(n1 > n2){
-		cout << "El el mayor es " <<n1;
+		cout << "El mayor es " <<n1;
 	}
 	else{
-		cout << "El el mayor es " <<n2;
+		cout << "El mayor es " <<n2;
 	}
 
 	return 0;
